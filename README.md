@@ -1,7 +1,7 @@
 <h1>API para transformar voz em texto</h1>
 
 <h1>
-  <img src="https://">
+  <img src="https://ik.imagekit.io/ladeiaDev/2022-06-16-18-05-fanciful-florentine-56d756.netlify.app_mfeM02Rvz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1655413512103">
 </h1>
 
 <h3 align="center">
